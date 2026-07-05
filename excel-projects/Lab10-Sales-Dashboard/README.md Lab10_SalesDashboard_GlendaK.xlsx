@@ -1,24 +1,52 @@
-# Lab 10 Sales Dashboard
+# Excel Sales Dashboard
 
-## Project Overview
-This Excel project demonstrates basic dashboard development using sales data. The workbook includes cleaned sales data, summary metrics, and visual reporting elements designed to help users understand sales performance.
+## Project Summary
+
+This project demonstrates the creation of an interactive sales dashboard in Microsoft Excel using business sales data. The dashboard provides insights into revenue performance, customer activity, and sales trends through PivotTables, PivotCharts, slicers, and calculated metrics.
+
+---
+
+## Business Problem
+
+Business leaders need a quick way to understand sales performance without reviewing thousands of rows of transaction data.
+
+This dashboard summarizes sales information into an easy-to-read report for decision-making.
+
+---
 
 ## Tools Used
+
 - Microsoft Excel
-- PivotTables
-- Charts
-- Dashboard Formatting
-- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Dashboard Design
+
+---
 
 ## Skills Demonstrated
-- Organizing raw data
-- Creating summary views
-- Building charts
-- Formatting a professional dashboard
-- Presenting business insights visually
 
-## File
+✔ Data Cleaning
+
+✔ Data Organization
+
+✔ Dashboard Development
+
+✔ Business Reporting
+
+✔ Data Visualization
+
+✔ Executive Reporting
+
+---
+
+## Files Included
+
 - Lab10_SalesDashboard_GlendaK.xlsx
 
-## Notes
-This project was completed as part of my data analytics training and supports my development in business intelligence, reporting, and dashboard design.
+---
+
+## Key Takeaways
+
+This project strengthened my ability to organize business data into meaningful visual reports that support business decision-making.
