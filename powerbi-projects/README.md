@@ -39,3 +39,8 @@ Apex Retail needed a mini-dashboard to summarize sales performance, revenue grow
 
 ## Key Takeaways
 This project strengthened my understanding of the difference between measures, calculated columns, and calculated tables in Power BI.
+
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
