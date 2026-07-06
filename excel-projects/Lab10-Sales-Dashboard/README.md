@@ -37,8 +37,4 @@ Create an Excel dashboard that summarizes sales performance and helps users quic
 - Lab10_SalesDashboard_GlendaK.xlsx
 - dashboard.png
 
-## Future Enhancements
-- Add more advanced KPIs.
-- Include trend analysis by month.
-- Connect the dashboard to a larger dataset.
-- Rebuild the project in Power BI for comparison.
+
