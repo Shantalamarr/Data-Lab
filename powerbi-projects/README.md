@@ -41,10 +41,7 @@ Build an interactive Power BI dashboard using DAX measures, calculated columns, 
 ## Files Included
 - Lab14_PowerBI_DAXPractice_GlendaK.pbix
 
-## Future Enhancements
-- Add drill-through pages.
-- Add tooltips for regional performance.
-- Connect the report to a SQL database.
+
 - Add additional time intelligence measures.
 ## Dashboard Preview
 
